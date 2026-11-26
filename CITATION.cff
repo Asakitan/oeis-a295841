@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Use this citation for the proof and its verification materials."
+title: "A run decomposition for king-neighbor arrays on a two-column strip"
+authors:
+  - family-names: "Chain.Ren"
+version: "1.0.0"
+date-released: "2026-11-27"
+license: MIT
+url: https://github.com/Asakitan/oeis-a295841/releases/tag/proof-v1.0.0
+repository-code: https://github.com/Asakitan/oeis-a295841
+preferred-citation:
+  type: report
+  title: "A run decomposition for king-neighbor arrays on a two-column strip"
+  authors:
+    - family-names: "Chain.Ren"
+  year: 2026
+  version: "1.0.0"
+  url: https://github.com/Asakitan/oeis-a295841/blob/proof-v1.0.0/PROOF.md
